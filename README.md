@@ -1,4 +1,8 @@
-# teldutala.fo
-Teldutala.fo bugs and issues
+# teldutala.fo ideas, bugs, tasks
 
-This is the teldutala.fo bug and issues repo.
+This is the official issues repo for https://teldutala.fo.
+
+Regards,
+
+Team Teldutala
+
